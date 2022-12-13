@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538224995286",
+    "project_id": "conch-42e99",
+    "storage_bucket": "conch-42e99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538224995286:android:515dec0992a861274d1277",
+        "android_client_info": {
+          "package_name": "com.everest.cloud.conch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538224995286-a1p1odr1q2aqu884jhd4p17hqv342oe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjvHTHJWdgjdLHbkzXRhBbURtPgjP8GhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538224995286-a1p1odr1q2aqu884jhd4p17hqv342oe2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

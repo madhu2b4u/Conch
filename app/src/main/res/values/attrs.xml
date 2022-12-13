@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AnimatedRecyclerView">
+        <attr name="layoutAnimation" format="reference" />
+        <attr name="animationDuration" format="integer" />
+        <attr name="layoutManagerOrientation" format="integer">
+            <enum name="horizontal" value="0" />
+            <enum name="vertical" value="1" />
+        </attr>
+        <attr name="layoutManagerReverse" format="boolean" />
+        <attr name="layoutManagerType" format="integer">
+            <enum name="linear" value="0" />
+            <enum name="grid" value="1" />
+        </attr>
+        <attr name="gridLayoutManagerColumns" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="ErrorView">
+        <attr name="isNestedScrollingEnabled" format="boolean" />
+        <attr name="needSafeArea" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="Theme">
+        <!-- Color -->
+        <attr name="colorPositive" format="color" />
+        <attr name="colorOnPositive" format="color" />
+        <attr name="colorOnError" format="color" />
+        <attr name="colorError" format="color" />
+        <attr name="colorOnIntroIndicator" format="color" />
+        <attr name="colorOnText" format="color" />
+        <attr name="colorOnButton" format="color" />
+        <attr name="colorOnWhiteBlue" format="color" />
+        <attr name="colorOnBlueWhite" format="color" />
+        <attr name="colorGreyWhite" format="color" />
+        <attr name="selectedColorDate" format="color" />
+        <attr name="selectedTabColor" format="color" />
+        <attr name="colorOnPrimaryWhite" format="color" />
+        <attr name="colorOnPrimaryBlue" format="color" />
+
+    </declare-styleable>
+
+
+    <declare-styleable name="TicketView">
+        <attr name="orientation" format="enum">
+            <enum name="horizontal" value="0"/>
+            <enum name="vertical" value="1"/>
+        </attr>
+        <attr name="backgroundColor" format="color"/>
+        <attr name="scallopRadius" format="dimension"/>
+        <attr name="scallopPositionPercent" format="float"/>
+        <attr name="showBorder" format="boolean"/>
+        <attr name="borderWidth" format="dimension"/>
+        <attr name="borderColor" format="color"/>
+        <attr name="showDivider" format="boolean"/>
+        <attr name="dividerWidth" format="dimension"/>
+        <attr name="dividerColor" format="color"/>
+        <attr name="dividerType" format="enum">
+            <enum name="normal" value="0"/>
+            <enum name="dash" value="1"/>
+        </attr>
+        <attr name="dividerDashGap" format="dimension"/>
+        <attr name="dividerDashLength" format="dimension"/>
+        <attr name="cornerType" format="enum">
+            <enum name="normal" value="0"/>
+            <enum name="rounded" value="1"/>
+            <enum name="scallop" value="2"/>
+        </attr>
+        <attr name="cornerRadius" format="dimension"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="FullscreenAttrs">
+        <attr name="fullscreenBackgroundColor" format="color" />
+        <attr name="fullscreenTextColor" format="color" />
+    </declare-styleable>
+</resources>
