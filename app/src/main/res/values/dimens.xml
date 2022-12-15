@@ -19,6 +19,7 @@
     <dimen name="margin_18">18dp</dimen>
     <dimen name="margin_12">12dp</dimen>
     <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_100">100dp</dimen>
     <dimen name="text_14">14sp</dimen>
     <item name="text_view_line_spacing_multiplier_standard" type="dimen" format="float">1.25</item>
     <item name="text_view_line_spacing_extra_0" type="dimen" format="float">0</item>

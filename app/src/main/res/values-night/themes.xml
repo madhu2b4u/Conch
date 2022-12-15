@@ -12,6 +12,9 @@
         <!-- Customize your theme here. -->
         <item name="windowNoTitle">true</item>
         <item name="windowActionBar">false</item>
+
+        <item name="backgroundColor">@color/black</item>
+        <item name="colorOnText">@color/white</item>
     </style>
 
     <style name="BottomSheetDialogTheme" parent="BaseBottomSheetDialog" />

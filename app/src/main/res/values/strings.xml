@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Conch</string>
+    <string name="na">na</string>
+    <string name="try_again">Try again</string>
+    <string name="general_error_header">Something went wrong</string>
+    <string name="general_error_message">Server down</string>
+    <string name="no_search_Results">No results found </string>
+    <string name="network_error_message">Poor network connection.Please check your connectivity</string>
+    <string name="ok_text">OK</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="network_error_header">No Internet</string>
+    <string name="permisson_denied">Permission Denied</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="settings">Settings</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="action_settings">Settings</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="please_select_nlanguage">Please Select\nLanguage</string>
 </resources>
