@@ -1,0 +1,37 @@
+package com.everest.cloud.conch.common
+
+
+const val INTRO_KEY = "INTRO_KEY"
+const val TOKEN = "TOKEN"
+const val ADVANCEDAYS = "ADVANCEDAYS"
+const val GSTPERCENTAGE = "GSTPERCENTAGE"
+const val PINCODE = "PINCODE"
+const val PROFILE_PIC = "PROFILE_PIC"
+const val NAME = "NAME"
+const val EMAIL = "EMAIL"
+const val PHONE = "PHONE"
+const val COUPON = "COUPON"
+const val COUPONDESC = "COUPONDESC"
+const val ADDRESS = "ADDRESS"
+const val STREET = "STREET"
+const val DISTRICT = "DISTRICT"
+const val USER_ID = "USER_ID"
+const val LOGIN_TOKEN = "LOGIN_TOKEN"
+const val LOGGED_IN = "LOGGED_IN"
+const val SELECTED_SOURCE_ID = "SELECTED_SOURCE_ID"
+const val SELECTED_DESTINATION_ID = "SELECTED_DESTINATION_ID"
+const val SELECTED_DESTINATION = "SELECTED_DESTINATION"
+const val SELECTED_SOURCE = "SELECTED_SOURCE"
+const val LOADED_CITIES = "LOADED_CITIES"
+const val LOADED_OFFERS = "LOADED_OFFERS"
+const val SELECTED_TIME = "SELECTED_TIME"
+const val MAX_COUNT = "MAX_COUNT"
+const val DDMMMYY = "dd MMM ''yy"
+const val DD = "dd"
+const val DDMMYYYY = "dd-MM-YYYY"
+const val YYYYDDMM = "YYYY-MM-dd"
+
+const val razor_debug_key = "rzp_test_qOfJt4I5PxV6SJ"
+const val razor_release_key = "rzp_live_KQgBHf2DBATAfF"
+
+class Constants

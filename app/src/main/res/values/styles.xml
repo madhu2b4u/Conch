@@ -43,8 +43,43 @@
         <item name="android:textStyle">bold</item>
     </style>
 
+    <style name="Text18dpBold" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">?attr/colorOnText</item>
+        <item name="android:textSize">@dimen/text_18</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Text14dpNormal" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">?attr/colorOnText</item>
+        <item name="android:textSize">@dimen/text_14</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="Text12dpNormal" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/grey_text</item>
+        <item name="android:textSize">@dimen/text_12</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="Text14dpLink" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/text_third</item>
+        <item name="android:textSize">@dimen/text_14</item>
+        <item name="android:fontFamily">@font/poppins_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="Button16dpBold" parent="Theme.AppCompat">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_16</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
     <style name="Text16dpOnWhite" parent="TextAppearance.AppCompat">
-        <item name="android:textColor">@color/black</item>
+        <item name="android:textColor">?attr/colorOnText</item>
         <item name="android:textSize">16sp</item>
         <item name="android:fontFamily">@font/poppins_regular</item>
         <item name="android:textStyle">normal</item>
