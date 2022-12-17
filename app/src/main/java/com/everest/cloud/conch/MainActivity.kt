@@ -1,9 +1,8 @@
 package com.everest.cloud.conch
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.everest.cloud.conch.common.SpUtil
+import androidx.appcompat.app.AppCompatActivity
 import com.everest.cloud.conch.language.LanguageActivity
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
@@ -22,7 +21,7 @@ class MainActivity : AppCompatActivity() {
     private fun navigateToIntroOrLoginOrHome() {
         val activityScope = CoroutineScope(Dispatchers.Main)
         activityScope.launch {
-            delay(4000)
+            delay(1000)
             navigateToIntro()
         }
     }

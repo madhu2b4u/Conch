@@ -18,4 +18,11 @@
     <string name="next">Next</string>
     <string name="choose_language">Choose Language</string>
     <string name="please_select_nlanguage">Please Select\nLanguage</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome_to_conch">Welcome to Conch</string>
+    <string name="please_signup_to_be_avail_valuable_benefits_in_our_app">Please signup to be avail valuable benefits in our app</string>
+    <string name="signup_as_user">Signup as User</string>
+    <string name="mobile">MOBILE</string>
+    <string name="get_otp">Get Otp</string>
 </resources>

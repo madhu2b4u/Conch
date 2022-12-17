@@ -25,6 +25,7 @@
         <!-- Color -->
         <attr name="backgroundColor" format="color"/>
         <attr name="colorOnText" format="color" />
+        <attr name="editTextBackgroundColor" format="color" />
 
         <attr name="colorPositive" format="color" />
         <attr name="colorOnPositive" format="color" />

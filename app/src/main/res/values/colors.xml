@@ -8,6 +8,7 @@
     <color name="text_third">#0086FF</color>
     <color name="error">#EB4335</color>
     <color name="inactive_red">#F6B09D</color>
+    <color name="grey_text">#75787B</color>
 
     <color name="green">#00A851</color>
     <color name="black">#FF000000</color>
